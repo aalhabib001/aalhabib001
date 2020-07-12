@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm [Abdullah AL Habib](https://facebook.com/aalhabib001) 👋
 A passionate Software Developer 🚀 and content writer ✍.
+
+### My Stack 🔥
+```js
+{
+  languages: ['JavaScript', 'C++', 'Python'],
+  backend: ['NodeJs'],
+  frontend: ['ReactJs', jQuery', 'Materialize']
+}
+```
