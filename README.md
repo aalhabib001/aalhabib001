@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there, I'm [Abdullah AL Habib](https://facebook.com/aalhabib001) 👋
-A passionate Software Developer 🚀 and content writer ✍.
+A passionate Software Developer 🚀 
 
 ![Habib's github stats](https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true)
