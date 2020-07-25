@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm [Abdullah AL Habib](https://facebook.com/aalhabib001) 👋
+## Hi there, I'm [Abdullah AL Habib](https://aalhabib01.xyz) 👋
 A passionate Software Developer 🚀 
 
 
