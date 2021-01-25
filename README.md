@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ## Hi there, I'm [Abdullah AL Habib](https://aalhabib01.xyz) 👋
 A passionate Software Developer 🚀 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /> </p>  
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aalhabib001" alt="aalhabib001" /></a> </p>  
 
 ![Habib's github stats](https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true)
 
