@@ -20,7 +20,7 @@ A passionate Software Developer 🚀
 
 ![Habib's github stats](https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoxSQL)](https://github.com/BlackBoxSQL/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalhabib001)](https://github.com/aalhabib001/github-readme-stats)
 
 <br>
 
