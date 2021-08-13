@@ -9,26 +9,29 @@ A passionate Software Developer 🚀
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C | Javascript | Dart | Typescript
-- 🌐 &nbsp; Spring-Boot | Express.Js | Flutter | React.Js | Angular | Bootstrap
-- 🛢 &nbsp; PGSQL | MySQL | MongoDB | Redis
-- 🔧 &nbsp; Git | Markdown
-
-
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Java](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![Java](https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=express)
+- 💻 &nbsp;  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
+
+- 🌐 &nbsp; 
+![Java](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
+![Java](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Java](https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+- 🛢 &nbsp; 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![PostgreSQL](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+
+- 🔧 &nbsp; ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
