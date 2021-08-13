@@ -83,9 +83,7 @@ Visit my [Portfolio](http://habib.info.bd)
 <a href="mailto:aalhabib001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aalhabib001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br/><br/>
 
 <img src='https://random-memer.herokuapp.com/' width= "50%" height= "50% title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
