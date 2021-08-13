@@ -4,6 +4,8 @@
 ## Hi there, I'm [Abdullah AL Habib](https://habib.info.bd) 👋
 A passionate Software Developer 🚀 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Abdullah+AL+Habib;I+am+a+Software+Enginner)](https://git.io/typing-svg)
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -11,7 +13,21 @@ A passionate Software Developer 🚀
 - 🌐 &nbsp; Spring-Boot | Express.Js | Flutter | React.Js | Angular | Bootstrap
 - 🛢 &nbsp; PGSQL | MySQL | MongoDB | Redis
 - 🔧 &nbsp; Git | Markdown
-- 
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/springboot.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dart.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redis.svg" />
+
+
 <!--
 **aalhabib001/aalhabib001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
