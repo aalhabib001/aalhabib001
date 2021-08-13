@@ -51,7 +51,7 @@ Visit my [Portfolio](http://habib.info.bd)
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://habib.info.bd/"><img alt="PortFolio" src="https://img.shields.io/badge/Portfolio-habib.info.bd-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://habib.info.bd/"><img alt="PortFolio" src="https://img.shields.io/badge/habib.info.bd-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/aalhabib001/"><img alt="LinkedIn" src="https://img.shields.io/badge/aalhabib001-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
 <a href="https://www.facebook.com/aalhabib001/"><img alt="Facebook" src="https://img.shields.io/badge/aalhabib001-facebook-blue?style=flat&logo=facebook"></a>
 <a href="mailto:aalhabib001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aalhabib001@gmail.com-blue?style=flat-square&logo=gmail"></a>
