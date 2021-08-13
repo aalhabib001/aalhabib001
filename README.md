@@ -29,23 +29,19 @@ A passionate Software Developer 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aalhabib001" alt="aalhabib001" /></a> </p>  
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-![Habib's github stats](https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true)
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalhabib001&theme=algolia&hide_border=false"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalhabib001)](https://github-readme-stats.vercel.app/api/top-langs/?username=aalhabib001)
-
-<br>
-
-  <a href="https://linkedin.com/in/aalhabib001/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+ <p align="center">
+  <a href="https://github.com/aalhabib001">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true&theme=algolia&count_private=true">
   </a>
-  <a href="https://twitter.com/aalhabib001">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <a href="https://github.com/aalhabib001">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=algolia&langs_count=6" />
   </a>
-  <a href="https://github.com/aalhabib001"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> 
-  <a href="mailto:aalhabib001@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>&nbsp; &nbsp;
-<a href="https://aalhabib001.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a>
-<br><br><br><br>
+ </p>
+
+Visit my [Portfolio](http://habib.info.bd)
