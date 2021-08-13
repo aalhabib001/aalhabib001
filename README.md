@@ -14,8 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm [Abdullah AL Habib](https://aalhabib01.xyz) 👋
+## Hi there, I'm [Abdullah AL Habib](https://habib.info.bd) 👋
 A passionate Software Developer 🚀 
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | C++ | C | Javascript | Dart | Typescript
+- 🌐 &nbsp; Spring-Boot | Express.Js | Flutter | React.Js | Angular | Bootstrap
+- 🛢 &nbsp; PGSQL | MySQL | MongoDB | Redis
+- 🔧 &nbsp; Git | Markdown
+
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /> </p>  
   
