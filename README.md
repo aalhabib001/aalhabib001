@@ -1,5 +1,18 @@
 
-<!--
+
+
+## Hi there, I'm [Abdullah AL Habib](https://habib.info.bd) 👋
+A passionate Software Developer 🚀 
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | C++ | C | Javascript | Dart | Typescript
+- 🌐 &nbsp; Spring-Boot | Express.Js | Flutter | React.Js | Angular | Bootstrap
+- 🛢 &nbsp; PGSQL | MySQL | MongoDB | Redis
+- 🔧 &nbsp; Git | Markdown
+- 
+<!---->
 **aalhabib001/aalhabib001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,18 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-## Hi there, I'm [Abdullah AL Habib](https://habib.info.bd) 👋
-A passionate Software Developer 🚀 
-
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Java | C++ | C | Javascript | Dart | Typescript
-- 🌐 &nbsp; Spring-Boot | Express.Js | Flutter | React.Js | Angular | Bootstrap
-- 🛢 &nbsp; PGSQL | MySQL | MongoDB | Redis
-- 🔧 &nbsp; Git | Markdown
 
 <br/>
 
