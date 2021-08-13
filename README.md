@@ -14,19 +14,22 @@ A passionate Software Developer 🚀
 - 🛢 &nbsp; PGSQL | MySQL | MongoDB | Redis
 - 🔧 &nbsp; Git | Markdown
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/springboot.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dart.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redis.svg" />
 
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-spring-boot-E34A86?style=flat-square&logo=springboot)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-flutter-E34A86?style=flat-square&logo=flutter)
+![Java](https://img.shields.io/badge/-express-E34A86?style=flat-square&logo=express)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
 <!--
 **aalhabib001/aalhabib001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,6 +75,9 @@ Visit my [Portfolio](http://habib.info.bd)
 <a href="https://www.facebook.com/aalhabib001/"><img alt="Facebook" src="https://img.shields.io/badge/aalhabib001-facebook-blue?style=flat&logo=facebook"></a>
 <a href="mailto:aalhabib001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aalhabib001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <br/><br/>
 <img src='https://random-memer.herokuapp.com/' width= "50%" height= "50% title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
