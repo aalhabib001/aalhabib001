@@ -85,5 +85,5 @@ Visit my [Portfolio](http://habib.info.bd)
 
 
 
-<img src='https://random-memer.herokuapp.com/' width= "50%" height= "50% title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
