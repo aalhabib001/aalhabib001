@@ -15,15 +15,16 @@ A passionate Software Developer 🚀
 - 🔧 &nbsp; Git | Markdown
 
 
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![Java](https://img.shields.io/badge/-springboot-black?style=flat-square&logo=springboot)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
-![Java](https://img.shields.io/badge/-express-black?style=flat-square&logo=express)
+![Java](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Java](https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=express)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -32,6 +33,7 @@ A passionate Software Developer 🚀
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 
 <!--
 **aalhabib001/aalhabib001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
