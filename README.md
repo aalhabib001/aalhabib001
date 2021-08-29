@@ -84,10 +84,11 @@ Visit my [Portfolio](http://habib.info.bd)
 </p>
 
 <br/>
-
+<!--
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+-->
 
