@@ -60,15 +60,15 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalhabib001&theme=gruvbox_duo&border=CA2424&fire=05B031FA&ring=379CDC&currStreakNum=B8B75C"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalhabib001&theme=cobalt&border=CA2424&fire=05B031FA&ring=379CDC&currStreakNum=B8B75C"/>
 </p>
 
  <p align="center">
   <a href="https://github.com/aalhabib001">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true&theme=gruvbox_duo&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true&theme=cobalt&count_private=true">
   </a>
   <a href="https://github.com/aalhabib001">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=gruvbox_duo&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=cobalt&langs_count=8" />
   </a>
  </p>
 
