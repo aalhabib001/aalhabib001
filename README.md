@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalhabib001&theme=cobalt&border=CA2424&fire=05B031FA&ring=379CDC&currStreakNum=B8B75C"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalhabib001&theme=cobalt"/>
 </p>
 
  <p align="center">
