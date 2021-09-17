@@ -68,7 +68,7 @@ Here are some ideas to get you started:
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true&theme=algolia&count_private=true">
   </a>
   <a href="https://github.com/aalhabib001">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=algolia&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=algolia&langs_count=8" />
   </a>
  </p>
 
